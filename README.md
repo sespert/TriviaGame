@@ -1,2 +1,2 @@
 # TriviaGame
-A game of question and answers, part of Homework #5 of UM Coding Bootcamp
+A game of questions and answers, part of Homework #5 of UM Coding Bootcamp
