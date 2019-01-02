@@ -1,0 +1,17 @@
+body {
+    background-image: url("../images/leaves-pattern.png");
+    
+}
+
+.container {
+    background-color: #b3ffb3;
+    height: 600px;
+}
+
+#footer {
+    background-color:black;
+    font-family: 'Georgia', Times, Times New Roman, serif; 
+    color: #ffffff;  
+    height: 50px;
+   
+}
