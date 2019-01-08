@@ -1,11 +1,21 @@
 body {
-    background-image: url("../images/leaves-pattern.png");
+    background-image: url("../images/nature3.jpg");
     
 }
 
 .container {
-    background-color: #b3ffb3;
-    height: 600px;
+    height: 100%;
+    background-image: url("../images/leaves-pattern.png");
+   
+}
+
+#question {
+    margin-top: 30px;
+}
+
+#answers {
+    cursor: pointer;
+    margin-top: 50px;
 }
 
 #footer {
