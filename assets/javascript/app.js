@@ -5,7 +5,7 @@ $(document).ready(function() {
         {   question: "The adult human skeleton is made of up how many bones?",
             answers: ["128", "206", "215", "300"],
             correct: 1,
-            picture: "assets/images/skeleton.jpeg"
+            picture: "assets/images/skeleton.gif"
         },
         {   question: "What is the name for the pigment found in your skin and hair that gives them color?",
             answers: ['Melanin', 'Cytosine', 'Adrenaline', 'Pigmentin'],
@@ -15,7 +15,7 @@ $(document).ready(function() {
         {   question: "Able to be seen from outer space, what is Earth’s largest living structure?",
             answers: ['Mount Everest', 'Antartica', 'Great Wall of China', 'The Great Barrier Reef'],
             correct: 3,
-            picture: "assets/images/reef.jpg"
+            picture: "assets/images/coral.gif"
         },
         {
             question: "What is the name for the upper arm bone found in humans?",
@@ -28,7 +28,7 @@ $(document).ready(function() {
             question: "The world’s fastest growing plant is a species of what?",
             answers: ["Grass", "Common Ivy", "Bamboo", "Ipomoea"],
             correct: 2,
-            picture: "assets/images/bamboo.jpg"
+            picture: "assets/images/bamboo.gif"
         
         },
         {
@@ -42,7 +42,7 @@ $(document).ready(function() {
             question: "Which scientist is considered the father of modern genetics?",
             answers: ["Charles Darwin", "Gregor Mendel", "Louis Pasteur", "Francis Watson"],
             correct: 1,
-            picture: "assets/images/Mendel.png"
+            picture: "assets/images/mendel.gif"
         
         },
         {
